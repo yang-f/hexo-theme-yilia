@@ -2,7 +2,7 @@
 
 menu:
   主页: /
-  相册: /favorite/
+  相册: /photos/
 
 # SubNav
 subnav:
@@ -90,6 +90,7 @@ smart_menu:
   aboutme: '关于我'
 
 friends:
-  知乎: http://zhihu.com/
+  我的店铺: https://slzhix.taobao.com
+  victor: http://wsl-victor.github.io
 
-aboutme: 我<br><br>就是我<br>颜色不一样的烟火
+aboutme: 全占工程师<br><br>读书<br>摄影<br>篮球<br>海贼王
