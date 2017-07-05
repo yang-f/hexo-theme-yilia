@@ -102,7 +102,9 @@
       url: config.url+url_for(post.path)
     }) %>
   <% } %>
-
+  <section id="comments">
+    <div id="uyan_frame"></div>
+  </section>
   <% if (theme.disqus || config.disqus_shortname){ %>
     <section id="comments">
       <div id="disqus_thread"></div>
