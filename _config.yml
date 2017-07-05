@@ -2,26 +2,12 @@
 
 menu:
   主页: /
-  随笔: /tags/随笔/
+  相册: /favorite/
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
-  #qq: "#"
-  #weixin: "#"
-  #jianshu: "#"
-  #douban: "#"
-  #segmentfault: "#"
-  #bilibili: "#"
-  #acfun: "#"
-  #mail: "mailto:litten225@qq.com"
-  #facebook: "#"
-  #google: "#"
-  #twitter: "#"
-  #linkedin: "#"
+  github: "https://github.com/yang-f"
+  zhihu: "https://www.zhihu.com/people/fy-66/activities"
 
 rss: /atom.xml
 
@@ -51,15 +37,15 @@ reward_wording: '谢谢你请我吃糖果'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
 alipay: 
 # 微信二维码图片地址
-weixin: 
+weixin: /img/pay.png
 
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: ''
-favicon: /favicon.png
+favicon: /img/favicon.jpeg
 
 #你的头像url
-avatar:
+avatar: /img/favicon.jpeg
 
 #是否开启分享
 share_jia: true
@@ -83,9 +69,10 @@ disqus: false
 # 样式定制 - 一般不需要修改，除非有很强的定制欲望…
 style:
   # 头像上面的背景颜色
-  header: '#4d4d4d'
+  header: '#aaa'
   # 右滑板块背景
-  slider: 'linear-gradient(200deg,#a0cfe4,#e8c37e)'
+  #slider: 'linear-gradient(200deg,#a0cfe4,#e8c37e)'
+  slider: '#333'
 
 # slider的设置
 slider:
@@ -103,11 +90,6 @@ smart_menu:
   aboutme: '关于我'
 
 friends:
-  友情链接1: http://localhost:4000/
-  友情链接2: http://localhost:4000/
-  友情链接3: http://localhost:4000/
-  友情链接4: http://localhost:4000/
-  友情链接5: http://localhost:4000/
-  友情链接6: http://localhost:4000/
+  知乎: http://zhihu.com/
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: 我<br><br>就是我<br>颜色不一样的烟火
