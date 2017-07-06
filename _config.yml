@@ -2,6 +2,8 @@
 
 menu:
   主页: /
+  技术: /categories/技术/
+  随想: /categories/随想/
   摄影: /photos/
   店铺: https://slzhix.taobao.com
 
@@ -91,6 +93,7 @@ smart_menu:
   aboutme: '关于我'
 
 friends:
+  上饭啦: http://shangfan.la
   victor: http://wsl-victor.github.io
 
 aboutme: 全占工程师<br><br>电影<br>读书<br>摄影<br>篮球<br>海贼王
