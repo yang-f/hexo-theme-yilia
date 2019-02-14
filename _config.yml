@@ -6,6 +6,7 @@ menu:
   随笔: /categories/随笔/
   摄影: /photos/
   店铺: https://slzhix.taobao.com
+  极客时间: https://www.geekbang.org
   机器学习课程: https://developers.google.cn/machine-learning/crash-course
 
 # SubNav
@@ -95,7 +96,7 @@ smart_menu:
   aboutme: '关于我'
 
 friends:
-  上饭啦: http://shangfan.la
   victor: http://wsl-victor.github.io
-
+  GORM: https://jasperxu.github.io/gorm-zh/
+  
 aboutme: 全占工程师<br><br>电影<br>读书<br>摄影<br>篮球<br>海贼王
