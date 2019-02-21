@@ -10,7 +10,7 @@
 (function() {
 	var loadScript = function(path) {
 	    var $script = document.createElement('script')
-	    document.getElementsByTagName('body')[0].appendChild($script)
+	    document.getElementsByTagName('head')[0].appendChild($script)
 	    $script.setAttribute('src', path)
 	}
 	<% for (var asset in compilation.assets) { %><% if (asset.indexOf('slider') >= 0) { %><% var slider = asset %><% } %><% } %>loadScript("<%= left %>config.root<%= right %><%= right2 %><%= slider %>")
